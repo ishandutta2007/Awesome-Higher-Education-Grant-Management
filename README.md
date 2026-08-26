@@ -27,79 +27,34 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Cayuse
-Research administration and electronic research administration platform supporting proposal development, submissions, sponsored projects, compliance, and related university research workflows.
-
-InfoEd Global
-Enterprise research administration platform covering proposal development, sponsored programs, research compliance, award management, and the broader research lifecycle.
-
-Huron Research Suite
-Higher-education research administration suite supporting pre-award, post-award, compliance, research development, and sponsored-project workflows.
-
-Streamlyne Research
-Research administration platform supporting proposal development, electronic submission, award management, compliance, budgeting, and institutional research workflows.
-
-OpenWater
-Grant management and application platform providing grant websites, application forms, reviewer portals, scoring, workflows, communications, and award-program administration.
-
-Submittable
-Application and grant-management platform used by universities, foundations, governments, and organizations to manage grants, scholarships, fellowships, awards, applications, reviews, and funding programs.
-
-Good Grants
-Online grant-management platform for creating application forms, managing submissions, coordinating reviewers, evaluating proposals, and administering grant programs.
-
-SmartSimple
-Configurable cloud platform for grants management, funding programs, application workflows, review, award administration, reporting, and complex organizational processes.
-
-AmpliFund
-Grants management platform focused on government and organizational funding workflows, including grant applications, awards, compliance, budgeting, reporting, and performance management.
-
-eCivis
-Grants management and funding intelligence platform focused on government organizations, including grant discovery, application management, award tracking, compliance, and reporting.
-
-Kuali Research
-Higher-education research administration platform supporting proposal development, institutional routing, sponsored research, award management, compliance, and related workflows.
-
-Fluxx Grantmaker
-Configurable grantmaking platform for foundations and funding organizations covering application intake, review, awards, payments, reporting, and portfolio management.
-
-Euna Grants
-Grant-management platform designed for government and public-sector organizations to manage funding opportunities, applications, awards, compliance, and reporting.
-
-GrantHub
-Grant-management and prospecting platform focused on nonprofit funding workflows, grant research, deadlines, reporting, and relationship management.
-
-Blackbaud Grantmaking
-Grantmaking platform for foundations and philanthropic organizations supporting application management, review, awards, payments, reporting, and portfolio administration.
-
-Foundant Grant Lifecycle Manager
-Grantmaking software supporting application intake, review, awards, reporting, and lifecycle management for foundations and nonprofit funding organizations.
-
-Foundant GrantHub Pro
-Grant prospecting and management software designed to organize funding opportunities, applications, deadlines, relationships, and reporting.
-
-WizeHive
-Configurable application, grants, scholarships, fellowships, and awards-management platform with workflow, review, scoring, and program-management capabilities.
-
-SurveyMonkey Apply
-Application-management platform used for grants, scholarships, fellowships, awards, and other competitive application programs.
-
-Award Force
-Cloud-based application and awards-management platform supporting submissions, judging, scoring, applicant communications, and award administration.
-
-OpenGrants
-Grant discovery and funding-oriented platform connecting organizations with grant opportunities and related funding resources.
-
-Instrumentl
-Grant discovery and tracking platform with funding search, opportunity matching, deadlines, and grant-management workflows.
-
-GrantForward
-Research-funding discovery platform used by academic researchers and institutions to identify relevant grant opportunities and funding programs.
-
-Pivot-RP
-Research-development and funding-opportunity platform used by universities and research institutions to discover grants, fellowships, and other funding opportunities.
+| Platform / Product | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Cayuse** | Research administration and electronic research administration platform supporting proposal development, submissions, sponsored projects, compliance, and related university research workflows. | Starts at ~$6,500/year (modular entry tier; enterprise campus suites scale to $50,000–$200,000+/year based on research volume) | No free-forever tier; no open trial (guided institutional demo and sandbox evaluation upon request) |
+| **InfoEd Global** | Enterprise research administration platform covering proposal development, sponsored programs, research compliance, award management, and the broader research lifecycle. | Starts at ~$15,000–$25,000/year (modular hosted subscription; full enterprise implementations range $50,000–$150,000+/year) | No free-forever tier; no open trial (vendor-guided evaluation and institutional sandbox on request) |
+| **Huron Research Suite** | Higher-education research administration suite supporting pre-award, post-award, compliance, research development, and sponsored-project workflows. | Starts at ~$50,000/year (single module; comprehensive institutional suites start at ~$500,000/year across multi-year agreements) | No free-forever tier; no open trial (institutional readiness assessment and guided demo on request) |
+| **Streamlyne Research** | Research administration platform supporting proposal development, electronic submission, award management, compliance, budgeting, and institutional research workflows. | Starts at ~$10,000–$25,000/year (core eRA modules; Streamlyne HERD standalone analytics starts at $37.50 to $495/month) | No free-forever tier; 14-day to 30-day proof-of-concept sandbox access available upon request |
+| **OpenWater** | Grant management and application platform providing grant websites, application forms, reviewer portals, scoring, workflows, communications, and award-program administration. | Starts at $5,100–$5,900/year (Growth / Standard annual plan) | No free-forever tier; no open trial (interactive applicant/judge demo sandbox environment available) |
+| **Submittable** | Application and grant-management platform used by universities, foundations, governments, and organizations to manage grants, scholarships, fellowships, awards, applications, reviews, and funding programs. | Starts at ~$10,000/year (annual subscription; optional payment collection fee of $0.99 + 5% per paid submission transaction) | No free-forever tier; no public free trial (interactive live product demo and sandbox on request) |
+| **Good Grants** | Online grant-management platform for creating application forms, managing submissions, coordinating reviewers, evaluating proposals, and administering grant programs. | Starts at $3,950/year (or ~$395/month billed monthly / €3,000/year) | 14-day free trial (full platform feature access to test applications, workflows, and reviewer portals; no free-forever tier) |
+| **SmartSimple (SmartSimple Cloud)** | Configurable cloud platform for grants management, funding programs, application workflows, review, award administration, reporting, and complex organizational processes. | Starts at ~$5,000/year (or £40–£165/user/year concurrent licensing + £950/day onboarding on G-Cloud frameworks) | No free-forever tier; no public trial (proof-of-concept environment and custom sandbox demo upon request) |
+| **AmpliFund** | Grants management platform focused on government and organizational funding workflows, including grant applications, awards, compliance, budgeting, reporting, and performance management. | Starts at $5,000/year (Grant Seeker Core: $5,000/year; Grant Maker Core: $6,000/year) | No free-forever tier; no open trial (live 1-on-1 walkthrough and guided evaluation upon request) |
+| **eCivis** | Grants management and funding intelligence platform focused on government organizations, including grant discovery, application management, award tracking, compliance, and reporting. | Starts at $5,200/year (base subscription for funding discovery and award management) | No free-forever tier; no open trial (free portal access for subrecipients/applicants invited by a licensed sponsor) |
+| **Kuali Research** | Higher-education research administration platform supporting proposal development, institutional routing, sponsored research, award management, compliance, and related workflows. | Starts at ~$15,000–$25,000/year per module (full institution-wide suites scale to $50,000–$120,000+/year) | Free standalone utility (Kuali GrantRisk for funding risk analysis); no open trial for core suite (institutional demo on request) |
+| **Fluxx Grantmaker** | Configurable grantmaking platform for foundations and funding organizations covering application intake, review, awards, payments, reporting, and portfolio management. | Starts at ~$15,000–$20,000/year (Fluxx Grantseeker prospecting tier starts at $39.99/month or $479.88/year) | Fluxx Grantmaker: no free tier/trial; Fluxx Grantseeker: free-forever basic plan (limited to basic grant tracking, task management, and award deadline logging) |
+| **Euna Grants** | Grant-management platform designed for government and public-sector organizations to manage funding opportunities, applications, awards, compliance, and reporting. | Starts at $5,200/year (annual public sector grant tracking and discovery subscription) | No free-forever tier; no open trial (demonstration upon request; free portal access for external subrecipients and applicants) |
+| **GrantHub** | Grant-management and prospecting platform focused on nonprofit funding workflows, grant research, deadlines, reporting, and relationship management. | Starts at $795–$995/year (or $95/month; legacy pricing prior to Instrumentl partnership) | 14-day free trial (full access to grant tracking and deadline calendar, no credit card required; no free-forever tier) |
+| **Blackbaud Grantmaking** | Grantmaking platform for foundations and philanthropic organizations supporting application management, review, awards, payments, reporting, and portfolio administration. | Starts at ~$15,000–$25,000/year (entry foundation tier; includes complimentary view-only licenses per paid seat) | No free-forever tier; no open trial (tailored live demonstration and capability walk-through upon request) |
+| **Foundant Grant Lifecycle Manager** | Grantmaking software supporting application intake, review, awards, reporting, and lifecycle management for foundations and nonprofit funding organizations. | Starts at $6,500/year (tiers scale $6,500–$13,900/year with $2,500–$4,500 implementation) | No free-forever tier; no open trial (interactive product demo upon request) |
+| **Foundant GrantHub Pro** | Grant prospecting and management software designed to organize funding opportunities, applications, deadlines, relationships, and reporting. | Starts at $1,495/year (advanced tier prior to product line transition) | 14-day free trial (complete grant tracking, prospect management, and deadline alert access; no free-forever tier) |
+| **WizeHive (Zengine)** | Configurable application, grants, scholarships, fellowships, and awards-management platform with workflow, review, scoring, and program-management capabilities. | Starts at $3,995/year (single-program entry tier) | No free-forever tier; no open trial (personalized demonstration and workflow scoping session upon request) |
+| **SurveyMonkey Apply** | Application-management platform used for grants, scholarships, fellowships, awards, and other competitive application programs. | Starts at $7,000–$7,500/year (annual application management and review plan) | No free-forever tier; no open trial (interactive product tour and scheduled demonstration on request) |
+| **Award Force** | Cloud-based application and awards-management platform supporting submissions, judging, scoring, applicant communications, and award administration. | Starts at $3,000–$3,250/year (Growth / Starter annual subscription) | No free-forever tier; no open trial (custom demonstration and live system review upon request) |
+| **OpenGrants** | Grant discovery and funding-oriented platform connecting organizations with grant opportunities and related funding resources. | Free tier available; Pro plan starts at $9/month ($99/year billed annually); Developer API plan at $299/month ($239/mo annually) | Free-forever plan (includes basic funding profile creation and public grant database search); 7-day free trial for Pro features (AI match scoring & alerts) |
+| **Instrumentl** | Grant discovery and tracking platform with funding search, opportunity matching, deadlines, and grant-management workflows. | Starts at $299/month billed annually ($3,588/year) or $349/month billed monthly (Discover plan, up to 3 user seats) | 14-day free trial (full access to RFP search, matched grants, deadline tracking, and 990 insights without credit card; no free-forever tier) |
+| **GrantForward** | Research-funding discovery platform used by academic researchers and institutions to identify relevant grant opportunities and funding programs. | Starts at ~$2,500–$5,000/year for institutional licenses (scaled by total student/faculty FTE and annual research expenditure) | 30-day institutional free trial (unlimited campus-wide access, automated recommendation profiles, and funding alerts; no individual free-forever tier) |
+| **Pivot-RP** | Research-development and funding-opportunity platform used by universities and research institutions to discover grants, fellowships, and other funding opportunities. | Starts at ~$6,500–$12,000/year (institutional subscription scaled by Carnegie classification, FTE, and research volume) | 30-day to 4-month institutional evaluation trial (full campus researcher access and funding alert matching; no individual free-forever tier) |
 
 Open-Source GitHub Projects
 
