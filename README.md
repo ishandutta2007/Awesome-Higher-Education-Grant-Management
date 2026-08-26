@@ -1,4 +1,4 @@
-# 🎓 Awesome Higher Education Grant Management [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+# 🎓 Awesome Higher Education Grant Management
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Higher Education Grant Management Banner" width="100%"/>
